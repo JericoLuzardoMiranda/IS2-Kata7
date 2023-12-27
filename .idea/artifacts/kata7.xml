@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kata7">
+    <output-path>$PROJECT_DIR$/out/artifacts/kata7</output-path>
+    <root id="archive" name="kata7.jar" />
+  </artifact>
+</component>
